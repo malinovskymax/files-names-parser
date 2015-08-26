@@ -1,0 +1,6 @@
+- @data.each do |account, dates|
+    div = account
+    - dates.each do |date, types|
+        .offset-2 = date
+        - types.each do |type|
+            .offset-4 = type

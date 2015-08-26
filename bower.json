@@ -1,0 +1,7 @@
+{
+  "name": "App",
+  "dependencies": {
+    "jquery": "latest",
+    "bootstrap-sass-official": "latest"
+  }
+}
